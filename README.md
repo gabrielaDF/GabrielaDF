@@ -1,6 +1,26 @@
 ### Hola mi nombre es Gabriela De Freitas 👋
 <hr width="36%" >
- Tambien conocida como GabrielaDF en G
+ Tambien conocida como GabrielaDF en GitHub
+<br>
+<hr width="36%" >
+<br>
+
+Quien soy?👀
+<br>
+🔸Hola! Me llamo Gabriela, tengo 33 años. Vivo en Colombia, en la ciudad de Jamundí, Valle del Cauca.
+ Desarrollador Full Stack con orientación al Front-end con capacidad de realizar proyectos web con tecnologías como React, Redux, Javascript, Express, NodeJs, Sequelize, PostgreSql. Me gradué en el bootcamp de Soy Henry.
+
+¿Por qué yo? 🦾
+<br>
+🔸 No conozco el resto de los desarrolladores, pero si me conozco muy bien a mí. Conmigo obtendrás una desarrolladora curiosa con gran capacidad de resolución de problemas, con ganas de aprender y con certificado en desarrollo de las habilidades blandas ( Soft Skills) del bootcamp "Soy Henry".
+
+Mi historia laboral 😃
+<br>
+🔸Acabo de cursar el bootcamp, en donde pude ejercer mis capacidades técnicas y sociales.
+🔸Me eligieron como Teaching Assistant en "Soy Henry" donde pusieron a prueba mis habilidades blandas, la resolución de problemas, empatía y comprensión dentro de una comunidad de estudiantes (desarrolladores).
+🔸Anteriormente me desarrollaba como analista de calidad en una empresa de plásticos, por lo que tengo la habilidad de gran atención a los detalles, resolución de problemas, trabajo en equipo, liderazgo, manejo de presión y responsabilidad 
+
+
  
 <br>
 <h3 align="left">Languajes y herramientas:</h3>
@@ -13,9 +33,10 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 
+Quieres saber más de mí? ¡contáctame! 📞
+WP: +573229209491
+Email: defreitasgabi@gmail.com
 
-<hr width="60%" >
-<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriela-de-freitas-90529b121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GabrielaDF" height="30" width="40" /></a>
 <!--
