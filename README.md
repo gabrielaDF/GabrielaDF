@@ -17,7 +17,7 @@
 <hr width="60%" >
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/gabriela-de-freitas-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GabrielaDF" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriela-de-freitas-90529b121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GabrielaDF" height="30" width="40" /></a>
 <!--
 **gabrielaDF/GabrielaDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
