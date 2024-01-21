@@ -38,8 +38,12 @@ Mi historia laboral 😃
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 
-Quieres saber más de mí? ¡contáctame! 📞
-WP: +573229209491
+Quieres saber más de mí? 
+<br>
+¡Contáctame!
+<br>
+📞WP: +573229209491
+<br>
 Email: defreitasgabi@gmail.com
 
 <p align="left">
